@@ -5,7 +5,7 @@ O Projeto "Bank Churn Classification" é voltado para a classificação da rotat
 A identificação previa de clientes que podem potencialmente encerrar suas contas possibilita aos bancos identificar e atacar as causas da evasão de clientes, mantendo sua fidelidade. Além disso, uma análide aprofundada dos dados podem revelar pontos de fragilidade na estrutura de comunicação do banco com os clientes, levando a ações direcionadas.
 
 # A Equipe
-Este projeto é desevolvido em parceiria por **João Pedro dos Santos Brito** e **Rodrigo Matos Peixoto**, ambos Ciêntistas de Dados, fomentando o aprimoramentos de *Hard* e _Soft Skills_.
+Este projeto é desevolvido em parceiria por **João Pedro de Brito** e **Rodrigo Matos Peixoto**, ambos Ciêntistas de Dados, fomentando o aprimoramentos de *Hard* e _Soft Skills_.
 
 ## Conecte-se!
 <div align="center">
