@@ -11,7 +11,7 @@ Este projeto é desevolvido em parceiria por **João Pedro de Brito** e **Rodrig
 <div align="center">
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://avatars.githubusercontent.com/u/202551655?v=4" alt="Minha Foto" width="50" style="border-radius: 50%;">
-  <p><strong>João Pedro</strong></p>
+  <p><strong>João Pedro de Brito</strong></p>
 </div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jotta-pe)
