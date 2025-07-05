@@ -31,8 +31,9 @@ Este projeto é desevolvido em parceiria por **João Pedro de Brito** e **Rodrig
 ## A Fazer
 - [x] Iniciar Repositório
 - [x] Montar README
-- [ ] Acessar dados Kaggle
+- [x] Acessar dados Kaggle
 - [ ] Visualizar dados
+- [ ] Classificar e categorizar os dados
 - [ ] Tratar dados
 - [ ] Fazer modelagem computacional
 - [ ] Analisar resultados
