@@ -1,5 +1,6 @@
 # O projeto
 O Projeto "Bank Churn Classification" é voltado para a classificação da rotatividade de clientes em bancos. Ele visa classificar se um determinado cliente irá ou não encerrar sua conta no banco.
+link no kaggle: https://www.kaggle.com/competitions/playground-series-s4e1
 
 # Motivação
 A identificação previa de clientes que podem potencialmente encerrar suas contas possibilita aos bancos identificar e atacar as causas da evasão de clientes, mantendo sua fidelidade. Além disso, uma análide aprofundada dos dados podem revelar pontos de fragilidade na estrutura de comunicação do banco com os clientes, levando a ações direcionadas.
