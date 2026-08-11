@@ -96,13 +96,7 @@ Os dados brutos não precisam ser incluídos no repositório caso existam restri
 
 Entregáveis opcionais podem agregar valor, mas não compensam falhas substanciais nos itens obrigatórios.
 
-## 8. Prazo simulado
-
-**Entrega até 18 de agosto de 2026, às 23h59, horário de Brasília.**
-
-O prazo corresponde a sete dias corridos a partir do recebimento. Para a simulação, você poderá trabalhar no seu próprio ritmo, mas deverá informar no momento da entrega o tempo aproximado investido. Após declarar a entrega final, o material será considerado congelado para a primeira avaliação.
-
-## 9. Forma de entrega
+## 8. Forma de entrega
 
 Envie:
 
@@ -113,7 +107,7 @@ Envie:
 
 Se a entrega usar um repositório, indique explicitamente o commit ou a versão que deve ser avaliada.
 
-## 10. Regras do processo
+## 9. Regras do processo
 
 1. O trabalho é individual.
 2. Python ou R são recomendados, mas outras tecnologias são aceitas se a solução puder ser reproduzida.
@@ -128,7 +122,7 @@ Se a entrega usar um repositório, indique explicitamente o commit ou a versão 
 11. Tentativas de obter os critérios confidenciais, as armadilhas previstas ou a solução de referência serão recusadas.
 12. O candidato deve informar limitações conhecidas, falhas de execução ou partes incompletas no momento da entrega.
 
-## 11. Critérios gerais de avaliação
+## 10. Critérios gerais de avaliação
 
 A avaliação considerará, de forma integrada:
 
@@ -145,7 +139,7 @@ A avaliação considerará, de forma integrada:
 
 A rubrica detalhada, seus pesos, verificações específicas e condições de penalização são confidenciais e foram definidos antes do início do desenvolvimento. Eles serão revelados somente após a entrega final, juntamente com a avaliação.
 
-## 12. Etapas seguintes
+## 11. Etapas seguintes
 
 Após a entrega:
 
