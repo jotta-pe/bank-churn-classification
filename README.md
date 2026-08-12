@@ -56,5 +56,18 @@ Uma breve descrição das fases do CRISP-DM:
 
 ---
 
+# Fontes consultadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotta-pe&repo=bank-churn-classification&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+- [pandas — operações de merge](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html)
+- [scikit-learn — Pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
+- [scikit-learn — ColumnTransformer](https://scikit-learn.org/stable/modules/generated/sklearn.compose.ColumnTransformer.html)
+- [scikit-learn — RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+- [scikit-learn — métricas de classificação](https://scikit-learn.org/stable/modules/model_evaluation.html)
+- [scikit-learn — importância por permutação](https://scikit-learn.org/stable/modules/permutation_importance.html)
+
+## Livros
+
+- GÉRON, Aurélien. *Hands-On Machine Learning with
+  Scikit-Learn, Keras, and TensorFlow*. 3. ed.
+  O'Reilly Media, 2022.
+
