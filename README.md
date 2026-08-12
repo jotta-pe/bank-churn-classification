@@ -1,46 +1,58 @@
-# O projeto
+# O projeto - Visão Geral
 O Projeto "Bank Churn Classification" é voltado para a classificação da rotatividade de clientes em bancos. Ele visa classificar se um determinado cliente irá ou não encerrar sua conta no banco.
 Link no kaggle: https://www.kaggle.com/competitions/playground-series-s4e1
 
-# Motivação
 A identificação previa de clientes que podem potencialmente encerrar suas contas possibilita aos bancos identificar e atacar as causas da evasão de clientes, mantendo sua fidelidade. Além disso, uma análide aprofundada dos dados podem revelar pontos de fragilidade na estrutura de comunicação do banco com os clientes, levando a ações direcionadas.
 
-# A Equipe
-Este projeto é desevolvido em parceiria por **João Pedro de Brito** e **Rodrigo Matos Peixoto**, ambos Ciêntistas de Dados, fomentando o aprimoramentos de *Hard* e _Soft Skills_.
+# Metodologia
+A metodologia utilizada vai ser a CRISP-DM (Cross-Industry Standard Process for Data Mining), a metodologia padrão mais utilizada para projetos desse tipo, Ela consiste em organizar o projeto em 6 fases cíclicas: Entendimento do Negócio, Entendimento dos Dados, Preparação dos Dados, Modelagem, Avaliação e Implantação. OBS: Para esse projeto não vai haver a fase de implantação pois é apenas um case que não vai para produção. 
 
-## Conecte-se!
-<div align="center">
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://avatars.githubusercontent.com/u/202551655?v=4" alt="Minha Foto" width="50" style="border-radius: 50%;">
-  <p><strong>João Pedro de Brito</strong></p>
-</div>
+Uma breve descrição das fases do CRISP-DM:
+- Entendimento do Negócio:
+  - Definir o problema real a ser resolvido.
+  - Estabelecer metas claras de sucesso para a empresa.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jotta-pe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpbmsilva)
+- Entendimento dos Dados:
+  - Coletar a base de dados inicial.
+  - Analisar a estrutura, o tamanho e a qualidade das informações.
+  
+- Preparação dos Dados:
+  - Limpar valores nulos ou errados.
+  - Selecionar e transformar as variáveis relevantes (Feature Engineering).
 
+- Modelagem:
+  - Escolher e aplicar algoritmos de aprendizado de máquina (Machine Learning).
+  - Treinar e ajustar os modelos matemáticos.
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://avatars.githubusercontent.com/u/58482589?v=4" alt="Minha Foto" width="50" style="border-radius: 50%;">
-  <p><strong>Rodrigo Peixoto</strong></p>
-</div>
+- Avaliação:
+  - Testar o desempenho do modelo com métricas estatísticas.
+  - Garantir que o resultado atende aos objetivos do negócio antes do lançamento.
+  
+- Implantação:
+  - Colocar o modelo em produção para uso real por usuários ou sistemas.
+  - Monitorar o desempenho contínuo do sistema.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Digu62)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-peixoto-9ab24415b)
-[![ORCID](https://img.shields.io/badge/orcid-000?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6405-1593)
-</div>
+# Entendimento do Negócio:
+
+# Entendimento dos Dados:
+
+# Preparação dos dados:
+
+# Modelagem:
+
+# Avaliação:
+
 
 ## A Fazer
-- [x] Iniciar Repositório
-- [x] Montar README
-- [x] Acessar dados Kaggle
-- [ ] Visualizar dados
-- [ ] Classificar e categorizar os dados
-- [ ] Tratar dados
-- [ ] Fazer modelagem computacional
-- [ ] Analisar resultados
-- [ ] Refatorar codigo
-- [ ] Implementar TDD
-- [ ] Publicar no Kaggle
+- [ ] Definição do problema
+- [ ] Carga e EDA
+- [ ] Limpeza e preparação dos dados
+- [ ] Selecionar e Criar features para o modelo
+- [ ] Treinar modelo (separando os dados de treino e teste)
+- [ ] Avaliar modelo
+- [ ] Realizar teste para seleção de variáveis como Hold-out
+- [ ] Fazer análise de hiperparêmtros
+- [ ] Gerar as predições finais
 
 ---
 
